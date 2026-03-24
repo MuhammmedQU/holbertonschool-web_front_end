@@ -276,13 +276,11 @@ ul.row {
   background-color: var(--color-black);
 }
 .footer-address {
-  color: var(--text-color);
+    color: var(--text-color);
 }
-
 .social-link {
-  display: block;
+    display: block;
 }
-
-.social-link svg {
-  fill: var(--text-color);
+.social-link > svg{
+    fill: var(--text-color);
 }
