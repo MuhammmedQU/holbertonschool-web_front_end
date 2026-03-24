@@ -275,7 +275,6 @@ ul.row {
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
 }
-
 .footer-address {
   color: var(--text-color);
 }
@@ -285,5 +284,5 @@ ul.row {
 }
 
 .social-link svg {
-   fill: var(--text-color);
+  fill: var(--text-color);
 }
